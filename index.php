@@ -46,28 +46,6 @@ a:visited { color: orange; }
 a:hover { color: #3bd671; }
 </style>
 
-<!-- Matomo respects your privacy -->
-<script type="text/javascript">
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(["setDoNotTrack", true]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://stats.koderoot.net/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '19']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="https://stats.koderoot.net/matomo.php?idsite=19&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
-
-<!-- Matomo Image Tracker-->
-<noscript><p><img referrerpolicy="no-referrer-when-downgrade" src="https://stats.koderoot.net/matomo.php?idsite=19&amp;rec=1" style="border:0" alt="" /> </p></noscript>
-<!-- End Matomo -->
-
 </head><body>
 
 <a href="https://discord.gg/W4tWjUcmEy"><img src="img/join-discord.png" alt="GG0x Discord Gaming Server"></a>
