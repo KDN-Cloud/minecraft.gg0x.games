@@ -3,6 +3,6 @@ GG0x Minecraft Bedrock Server
 
 | Server               | Port  |
 |----------------------|-------|
-| minecraft.gg0x.games | 19132 |
+| mc.gg0x.games | 19132 |
 
 ![Minecraft Background](img/minecraft-background.png)
